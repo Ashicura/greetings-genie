@@ -1,0 +1,33 @@
+body {
+    background-image: url("stary.jpg");
+    color: #efe70b;
+    text-align: center;
+}
+ h1{
+     font-size: xx-large;
+ }
+img{
+    float:left;
+    margin: 10px;
+    margin-right: 5px;
+    border-radius: 50%;
+}
+#phrase{
+    color: red;
+}
+.block{
+    display:inline-block;
+}
+.bubble{
+    position: relative;
+    font-family: sans-serif;
+    font-size: 18px;
+    width: 300px;
+    background-color: seashell;
+    border-radius: 40px;
+    padding: 24px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 5px;
+    float:right;
+}
